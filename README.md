@@ -1,3 +1,29 @@
+<div align="center">
+
+<img width="100%" alt="DEAD MANS TRIGGER" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:627B29&height=220&section=header&text=DEAD%20MANS%20TRIGGER&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Web%20%7C%20Node.js%20%7C%20JavaScript%20%7C%20Demo&descSize=16&descAlignY=58"/>
+
+`Web` [`Node.js`](https://nodejs.org/) [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript) `Demo` - Educational dead-man-switch demonstration with a Node.js server, check-in timers and optional email delivery. See the documented security limitations.
+
+[Project website / live view](https://deadmantriggers.com/)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=627B29&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=Educational+dead-man-switch+demonstration+with+a+Node.js+server%2C+check-in...%3BWeb+%2F+Node.js+%2F+JavaScript+%2F+Demo)](https://git.io/typing-svg)
+
+![Existing project screenshot or recording](deadman.png)
+
+<br>
+
+[![Project](https://img.shields.io/badge/Project-DEAD--MANS--TRIGGER-627B29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/DEAD-MANS-TRIGGER)
+[![Format](https://img.shields.io/badge/Format-Node.js-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/DEAD-MANS-TRIGGER/tree/main)
+
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/DEAD-MANS-TRIGGER?style=flat-square&color=627B29)](https://github.com/Ringmast4r/DEAD-MANS-TRIGGER/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/DEAD-MANS-TRIGGER?style=flat-square&color=627B29)](https://github.com/Ringmast4r/DEAD-MANS-TRIGGER/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/DEAD-MANS-TRIGGER?style=flat-square&color=627B29)](https://github.com/Ringmast4r/DEAD-MANS-TRIGGER)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/DEAD-MANS-TRIGGER?style=flat-square&color=627B29)](https://github.com/Ringmast4r/DEAD-MANS-TRIGGER/commits/main)
+
+</div>
+
+---
+
 # ⚠️ Dead Man's Trigger
 
 **A server-powered dead man's switch that automatically sends emails when you fail to check in.**
@@ -6,7 +32,8 @@ Unlike browser-only solutions, this actually works when you're incapacitated bec
 
 ---
 
-## 🎮 Try the Demo First!
+<a id="-try-the-demo-first"></a>
+## `> try_the_demo_first`
 
 ### 🌐 [Live Visual Demo](https://ringmast4r.github.io/DEAD-MANS-TRIGGER/)
 
@@ -30,7 +57,8 @@ The system logs what WOULD be sent to the console without actually sending email
 
 ---
 
-## 🚨 CRITICAL SECURITY WARNING
+<a id="-critical-security-warning"></a>
+## `> critical_security_warning`
 
 **⚠️ THIS IS AN EDUCATIONAL DEMONSTRATION PROJECT ⚠️**
 
@@ -75,7 +103,8 @@ The system logs what WOULD be sent to the console without actually sending email
 
 ---
 
-## 🚨 IMPORTANT: Read Before Contributing
+<a id="-important-read-before-contributing"></a>
+## `> important_read_before_contributing`
 
 **ALL commits must be authored by ringmast4r only.**
 
@@ -83,7 +112,8 @@ See `COMMIT-RULES.md` for commit guidelines. Never include AI attribution or co-
 
 ---
 
-## 📸 Screenshots
+<a id="-screenshots"></a>
+## `> screenshots`
 
 **Main Interface - Setup Screen**
 
@@ -95,7 +125,8 @@ See `COMMIT-RULES.md` for commit guidelines. Never include AI attribution or co-
 
 ---
 
-## ✨ Features
+<a id="-features"></a>
+## `> features`
 
 - ✅ **Server-side countdown** - Runs 24/7, even when your browser is closed
 - ✅ **Automatic email sending** - No manual clicks required
@@ -107,7 +138,8 @@ See `COMMIT-RULES.md` for commit guidelines. Never include AI attribution or co-
 
 ---
 
-## 🚀 Quick Start
+<a id="-quick-start"></a>
+## `> quick_start`
 
 ### Prerequisites
 
@@ -137,7 +169,8 @@ npm start
 
 ---
 
-## 📧 Email Configuration
+<a id="-email-configuration"></a>
+## `> email_configuration`
 
 The server uses SendGrid Web API for reliable email delivery.
 
@@ -180,7 +213,8 @@ REPLY_TO_EMAIL=your-personal-email@example.com
 
 ---
 
-## 📖 How to Use
+<a id="-how-to-use"></a>
+## `> how_to_use`
 
 ### 1. Setup Trigger
 
@@ -207,7 +241,8 @@ REPLY_TO_EMAIL=your-personal-email@example.com
 
 ---
 
-## 🧪 Testing
+<a id="-testing"></a>
+## `> testing`
 
 Test with a 1-minute trigger:
 
@@ -221,7 +256,8 @@ Wait 1 minute → Check your email inbox!
 
 ---
 
-## 🛠️ Technical Details
+<a id="-technical-details"></a>
+## `> technical_details`
 
 - **Backend:** Node.js + Express
 - **Database:** SQLite
@@ -233,7 +269,8 @@ No frameworks, no build step - just simple reliable tech.
 
 ---
 
-## 📁 Project Structure
+<a id="-project-structure"></a>
+## `> project_structure`
 
 ```
 DEAD-MANS-TRIGGER/
@@ -248,7 +285,8 @@ DEAD-MANS-TRIGGER/
 
 ---
 
-## 🚀 Deployment
+<a id="-deployment"></a>
+## `> deployment`
 
 For 24/7 operation, deploy to cloud:
 
@@ -270,7 +308,8 @@ For 24/7 operation, deploy to cloud:
 
 ---
 
-## ⚠️ Important Notes
+<a id="-important-notes"></a>
+## `> important_notes`
 
 ### What This IS:
 
@@ -288,7 +327,8 @@ For 24/7 operation, deploy to cloud:
 
 ---
 
-## 🔒 Security & Privacy
+<a id="-security--privacy"></a>
+## `> security__privacy`
 
 **Data Protection:**
 - Email credentials stored in `.env` (gitignored)
@@ -309,7 +349,8 @@ For 24/7 operation, deploy to cloud:
 
 ---
 
-## 🎯 Use Cases
+<a id="-use-cases"></a>
+## `> use_cases`
 
 - Send important info to loved ones if you can't check in
 - Educational project for learning timers and automation
@@ -318,13 +359,15 @@ For 24/7 operation, deploy to cloud:
 
 ---
 
-## 📝 License
+<a id="-license"></a>
+## `> license`
 
 MIT License - Use however you want!
 
 ---
 
-## 🤝 Contributing
+<a id="-contributing"></a>
+## `> contributing`
 
 Pull requests welcome!
 
@@ -339,7 +382,8 @@ Ideas for improvements:
 
 ---
 
-## 📚 Documentation
+<a id="-documentation"></a>
+## `> documentation`
 
 - **[DEMO-MODE.md](DEMO-MODE.md)** - Complete guide to running in demo mode without email
 - **[.env.example](.env.example)** - SendGrid configuration guide
@@ -347,7 +391,8 @@ Ideas for improvements:
 
 ---
 
-## 🐛 Troubleshooting
+<a id="-troubleshooting"></a>
+## `> troubleshooting`
 
 **Emails not arriving?**
 1. Check SendGrid API key is correct
@@ -372,9 +417,18 @@ Ideas for improvements:
 
 ---
 
-## ⚡ Quick Links
+<a id="-quick-links"></a>
+## `> quick_links`
 
 - [GitHub Repository](https://github.com/Ringmast4r/DEAD-MANS-TRIGGER)
 - [Report Issues](https://github.com/Ringmast4r/DEAD-MANS-TRIGGER/issues)
 - [SendGrid Signup](https://signup.sendgrid.com/)
 - [Domain Authentication Guide](https://app.sendgrid.com/settings/sender_auth)
+
+---
+
+<div align="center">
+
+<img width="100%" alt="DEAD MANS TRIGGER footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:627B29,100:000000&height=120&section=footer&text=RINGMAST4R%20%2F%2F%20DEMO&fontSize=18&fontColor=ffffff&fontAlignY=65"/>
+
+</div>
